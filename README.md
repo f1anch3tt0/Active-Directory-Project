@@ -1,4 +1,4 @@
-# PROJECTNAME
+# Active Directory Project
 
 ## Objective
 [Brief Objective - Remove this afterwards]
